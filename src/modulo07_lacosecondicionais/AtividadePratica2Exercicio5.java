@@ -7,17 +7,17 @@ public class AtividadePratica2Exercicio5 {
 	public static void main(String[] args) {
 		
 		/* Atividade Prática2
-		   Laços e Condicionais
-		   Exercício 5
-		Com base na tabela abaixo,
-		escreva um algoritmo em Java
-		que leia o código de um item
-		(número inteiro de 1 a 6) e a
-		quantidade comprada deste item
-		(número inteiro). A seguir,
-		mostre na tela o valor total da
-		conta e o nome do produto que
-		foi comprado. */
+		  	Laços e Condicionais
+		  	Exercício 5
+			Com base na tabela abaixo,
+			escreva um algoritmo em Java
+			que leia o código de um item
+			(número inteiro de 1 a 6) e a
+			quantidade comprada deste item
+			(número inteiro). A seguir,
+			mostre na tela o valor total da
+			conta e o nome do produto que
+			foi comprado. */
 		
 		System.out.println("--Programa para Preços de Lanchonete--");
 		

@@ -6,7 +6,10 @@ public class AtividadePratica2Exercicio6 {
 
 	public static void main(String[] args) {
 		
-		/* Com base na tabela abaixo, escreva um algoritmo
+		/* Atividade Prática2
+		 * Laços e Condicionais
+		 * Exercício 6
+		 * Com base na tabela abaixo, escreva um algoritmo
 		 * em Java que leia o Nome do Colaborador (String),
 		 * o Código do Cargo do Colaborador(número inteiro
 		 * de 1 a 6) e o Salário (número float). A seguir,
