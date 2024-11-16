@@ -8,7 +8,8 @@ public class AtividadePratica3Exercicio6 {
 		Laços de Repetição
 		Exercício6:
 		
-		
+		//Exercício a ser feito posteriormente.
+
 		
 		*/
 		
